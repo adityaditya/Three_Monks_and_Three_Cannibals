@@ -74,6 +74,6 @@ yarn start
 
 ## Authors
 
-- [Shubhra Kanti Roy](https://github.com/Vid2003)
+- [Aditya Raj](https://github.com/adityaditya)
 
 # monks_and_cannibals
